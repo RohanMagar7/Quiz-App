@@ -40,6 +40,15 @@ const quizData = [
         d: "!=",
         correct: "a",
     },
+    
+     {
+        question: "'OS' computer abbreviation usually means?",
+        a: "update files",
+        b: "Order of Significance",
+        c: "Operating System",
+        d: "opne system",
+        correct: "c",
+    },
 
 
 ];
